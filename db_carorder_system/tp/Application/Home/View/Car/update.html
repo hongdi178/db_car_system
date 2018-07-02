@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+    <form action="/index.php?c=oil&a=update&id={$attr.id}" method="post">
+        <div>id：<input type="text" name="id" value="{$attr.id}" disabled/></div>
+        <div>编号：<input type="text" name="number" value="{$attr.number}"/></div>
+        <div>车牌号：<input type="text" name="plate_number" value="{$attr.plate_number}"/></div>
+        <div>车架号：<input type="text" name="frame_number" value="{$attr.frame_number}"/></div>
+        <input type="submit" value="修改"/>
+        <a></a>
+    </form>
+</div>
+</body>
+</html>

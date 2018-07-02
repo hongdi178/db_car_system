@@ -1,0 +1,29 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div>
+    <table border="1" align="center">
+        <tr>
+
+            <th>管理员</th>
+            <th>操作内容</th>
+            <th>操作时间</th>
+        </tr>
+        <volist name="list" id="vo">
+            <tr>
+                <td>{$vo.user}</td>
+                <td>{$vo.log}</td>
+                <td>{$vo.create_time}</td>
+            </tr>
+        </volist>
+
+    </table>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+    <volist name="list" id="vo">
+        <p id="name" hidden>{$vo.id}</p>
+        <p>角色名：{$vo.name}</p>
+    </volist>
+
+</div>
+<div align="center">
+    <input type="checkbox"  value="1" id="user" /> 用户管理
+    <input type="checkbox" value="1" id="password">修改密码
+    <input type="checkbox"  value="1" id="operate"/> 操作日志
+</div>
+<div align="center">
+    <input type="checkbox"  value="1" id="admin"/> 管理员管理
+    <input type="checkbox"  value="1" id="oil"/> 油品类型管理
+    <input type="checkbox"  value="1" id="list"/> 车辆队列管理
+</div>
+<div align="center">
+    <input type="checkbox"  value="1" id="power"/> 权限管理
+    <input type="checkbox"  value="1" id="announce"/> 公告内容管理
+</div>
+<div align="center">
+    <button id="submit">确定修改</button>
+</div>
+</body>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/power/update.js"></script>
+<script src="__PUBLIC__/layui-v2.2.5/layui/layui.js" charset="utf-8"></script>
+</html>

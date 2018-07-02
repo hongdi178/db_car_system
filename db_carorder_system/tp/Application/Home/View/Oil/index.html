@@ -1,0 +1,41 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table border="1" align="center">
+    <tr>
+        <th>油品类型id</th>
+        <th>油品类型</th>
+        <th>创建时间</th>
+        <th>更新时间</th>
+        <th>操作</th>
+    </tr>
+    <volist name="list" id="vo">
+        <tr>
+            <td>{$vo.id}</td>
+            <td>{$vo.name}</td>
+            <td>{$vo.create_time}</td>
+            <td>{$vo.update_time}</td>
+
+            <td>
+                <button  style="background-color:#F00" class="delete">删除</button>
+                <button class="change">修改</button>
+                <a href=" {:U('Oil/find',array('id'=>$vo['id']))}">查看</a>
+            </td>
+        </tr>
+    </volist>
+</table>
+<div align="center">
+
+    <a href="{:U('Home/Oil/add')}">增加油品类型</a>
+</div>
+</body>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/oil/index.js"></script>
+</html>

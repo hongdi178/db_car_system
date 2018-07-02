@@ -1,0 +1,29 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>添加车辆</title>
+</head>
+<body>
+<div align="center">
+    用户名：<select>
+        <option>---请选择---</option>
+        <volist name="list" id="vo">
+
+            <option value="{$vo.id}">{$vo.name}</option>
+
+        </volist>
+    </select>
+
+</div>
+
+<div align="center">
+    <button id="add">添加</button><button id="back">返回</button>
+</div>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/list/add.js"></script>
+</body>
+</html>

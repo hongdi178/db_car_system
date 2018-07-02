@@ -1,0 +1,100 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>车辆队列</title>
+</head>
+<body>
+<div align="center">
+    订单状态：
+    <select class="select">
+        <option value="0">请选择</option>
+        <option value="1">已装</option>
+        <option value="2">装车中</option>
+        <option value="3">厂区内待装</option>
+        <option value="4">厂外待转</option>
+        <option value="5">全部</option>
+    </select>
+    <div>
+        <label >创建时间选择</label>
+        <input id="test" size="40px">
+    </div>
+    <button   id="button">生成excel</button>
+</div>
+<div align="center">
+
+    <button id="add">添加车辆</button>
+
+
+        <eq name="status" value="1">
+            <button style="background-color: #0bb20c" id="cancel">取消暂停</button>
+        </eq>
+
+        <eq name="status" value="0">
+            <button style="background-color: #0bb20c" id="pause">暂停全部车辆</button>
+        </eq>
+
+
+</div>
+<table border="1" align="center">
+    <tr>
+
+        <th>订单编号</th>
+        <th>车牌号</th>
+        <th>排序</th>
+        <th>真实姓名</th>
+        <th>公司</th>
+        <th>电话号码</th>
+
+        <th>状态</th>
+        <th>更新时间</th>
+        <th>删除时间</th>
+        <th>操作</th>
+    </tr>
+    <volist name="list" id="vo">
+        <tr>
+            <td>{$vo.order_number}</td>
+            <td>{$vo.plate_number}</td>
+            <td>{$vo.rank}</td>
+            <td>{$vo.name}</td>
+            <td>{$vo.company}</td>
+            <td>{$vo.phone}</td>
+
+            <eq name="vo.rank" value="0"><td>已装</td></eq>
+            <eq name="vo.rank" value="1"><td>装车中</td></eq>
+            <eq name="vo.rank" value="2"><td>厂区内待装</td></eq>
+            <egt name="vo.rank" value="3"><td>厂外待装</td></egt>
+            <td>{$vo.update_time}</td>
+            <td>{$vo.delete_time}</td>
+            <td>
+
+
+
+
+                <button style="background-color:#F00" class="delete">删除</button>
+                <button class="update">修改</button>
+                <eq name="vo.rank" value="1"><button class="complete">完成</button></eq>
+            </td>
+        </tr>
+    </volist>
+</table>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/list/index.js"></script>
+<script src="__PUBLIC__/layui-v2.2.5/layui/layui.js" charset="utf-8"></script>
+<script>
+    layui.use('laydate', function(){
+        var laydate = layui.laydate;
+
+        laydate.render({
+            elem: '#test'
+            ,type: 'datetime'
+            ,range: true //或 range: '~' 来自定义分割字符
+        });
+    });
+</script>
+</body>
+</html>
+

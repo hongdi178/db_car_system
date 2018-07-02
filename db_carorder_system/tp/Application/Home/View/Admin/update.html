@@ -1,0 +1,42 @@
+<include file="admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+        <form>
+            <div>
+                <span style="display:inline-block;width:150px;text-align:right;">用户id：</span>
+                <input type="text" name="id" value="{$list[0][id]}" id="id" disabled  />
+                <br>
+                <span style="display:inline-block;width:150px;text-align:right;">用户名：</span>
+                <input type="text" name="id" value="{$list[0][name]}" id="name"  />
+                <br>
+                <span style="display:inline-block;width:150px;text-align:right;">密码：</span>
+                <input type="password" name="number"  id="password" />
+                <br>
+                <span style="display:inline-block;width:150px;text-align:right;">请再次输入密码：</span>
+                <input type="password" name="plate_number" id="second" />
+                <br>
+                角色类型：<select id="roleid">
+                    <option value="{$list[0][role_id]}">{$list[0][roleName]}</option>
+                    <volist name="role" id="vo">
+                        <option value="{$vo['id']}" >{$vo.name} </option>
+                    </volist>
+                </select>
+            </div>
+        </form>
+    <button id="submit">确认</button>
+    <button id="back">返回</button>
+</div>
+</body>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/layui-v2.2.5/layui/layui.js" charset="utf-8"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/admin/update.js"></script>
+
+</html>

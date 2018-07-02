@@ -1,0 +1,1377 @@
+[ 2018-05-10T18:22:41+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:23:29+08:00 ] 127.0.0.1 /index.php?c=login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.021001s ]
+SQL: SELECT * FROM `t_user` WHERE ( phone='hongdi' ) LIMIT 1   [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:23:33+08:00 ] 127.0.0.1 /index.php?c=login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_admin` [ RunTime:0.033002s ]
+SQL: SELECT * FROM `t_admin` WHERE ( username='hongdi' ) LIMIT 1   [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:23:35+08:00 ] 127.0.0.1 /index.php?c=admin&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:23:37+08:00 ] 127.0.0.1 /index.php?c=car&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.023001s ]
+SQL: SELECT * FROM `t_car`  [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:23:39+08:00 ] 127.0.0.1 /index.php?c=user&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.010000s ]
+SQL: SELECT * FROM `t_user`  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:23:40+08:00 ] 127.0.0.1 /index.php?c=index&a=password
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:23:41+08:00 ] 127.0.0.1 /index.php?c=order&a=create
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.039003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:23:43+08:00 ] 127.0.0.1 /index.php?c=order&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.048003s ]
+SQL: SELECT * FROM `t_order` ORDER BY create_time DESC   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.056003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:23:45+08:00 ] 127.0.0.1 /index.php?c=operate&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:23:47+08:00 ] 127.0.0.1 /index.php?c=admin&a=manage
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_admin` [ RunTime:0.011000s ]
+SQL: SELECT * FROM `t_admin`  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:23:50+08:00 ] 127.0.0.1 /index.php?c=order&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.009000s ]
+SQL: SELECT * FROM `t_order` ORDER BY create_time DESC   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:23:52+08:00 ] 127.0.0.1 /index.php?c=order&a=update&id=39
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010001s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 39 ) LIMIT 1   [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\OrderController.class.php on line 23 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\702561d62c40dc9d4f4842425b4035ec.php 第 41 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\702561d62c40dc9d4f4842425b4035ec.php 第 44 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:23:58+08:00 ] 127.0.0.1 /index.php?c=order&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.012001s ]
+SQL: SELECT * FROM `t_order` ORDER BY create_time DESC   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:24:02+08:00 ] 127.0.0.1 /index.php?c=order&a=create
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:24:09+08:00 ] 127.0.0.1 /index.php?c=order&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.009000s ]
+SQL: SELECT * FROM `t_order` ORDER BY create_time DESC   [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:24:15+08:00 ] 127.0.0.1 /index.php?c=order&a=update&id=39
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 39 ) LIMIT 1   [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\OrderController.class.php on line 23 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\702561d62c40dc9d4f4842425b4035ec.php 第 41 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\702561d62c40dc9d4f4842425b4035ec.php 第 44 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:25:05+08:00 ] 127.0.0.1 /index.php?c=operate&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:25:07+08:00 ] 127.0.0.1 /index.php?c=order&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010001s ]
+SQL: SELECT * FROM `t_order` ORDER BY create_time DESC   [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 74 行.
+NOTIC: [8] Undefined index: user_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\ffa8aade729e4e26e935cd9703650a4b.php 第 80 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:25:17+08:00 ] 127.0.0.1 /index.php?c=admin&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:25:18+08:00 ] 127.0.0.1 /index.php/Home/index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:25:25+08:00 ] 127.0.0.1 /index.php?c=login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `t_user` WHERE ( phone='999' ) LIMIT 1   [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:25:26+08:00 ] 127.0.0.1 /index.php?c=driver&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:25:29+08:00 ] 127.0.0.1 /index.php?c=driver&a=orderpool
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `t_order` ORDER BY create_time DESC  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.028001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2018-05-10T18:25:37+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=36
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.027001s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 36 ) LIMIT 1   [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.010001s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:25:45+08:00 ] 127.0.0.1 /index.php?c=driver&a=orderpool
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.011000s ]
+SQL: SELECT * FROM `t_order` ORDER BY create_time DESC  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:25:47+08:00 ] 127.0.0.1 /index.php?c=driver&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:25:49+08:00 ] 127.0.0.1 /index.php?c=driver&a=orderpool
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010001s ]
+SQL: SELECT * FROM `t_order` ORDER BY create_time DESC  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:26:11+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=36
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.009000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 36 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.010001s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:27:29+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=36
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010001s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 36 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.010001s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+SQL: UPDATE `t_order` SET `pick_number`='123123',`contract_number`='',`short_supply_info`='',`delivery_quantity`=12312,`delivery_time`='',`settle_company`='',`order_status`=1,`user_id`=2 WHERE ( `id` = 36 ) [ RunTime:0.030001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:27:30+08:00 ] 127.0.0.1 /index.php?c=driver&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:27:33+08:00 ] 127.0.0.1 /index.php?c=driver&a=personorder
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010001s ]
+SQL: SELECT * FROM `t_order` WHERE ( `user_id` = 2 )  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\2856435c7d0717878d6786081e845089.php 第 41 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\2856435c7d0717878d6786081e845089.php 第 41 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\2856435c7d0717878d6786081e845089.php 第 41 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\2856435c7d0717878d6786081e845089.php 第 41 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:29:12+08:00 ] 127.0.0.1 /index.php?c=driver&a=index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:29:14+08:00 ] 127.0.0.1 /index.php?c=driver&a=orderpool
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010001s ]
+SQL: SELECT * FROM `t_order` ORDER BY create_time DESC  [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+NOTIC: [8] Undefined index: car_plate_number D:\phpStudy\WWW\db_car_system-master\tp\Application\Runtime\Cache\Home\9871a93d1a8bda2fcce7b06a2ccfcbb9.php 第 36 行.
+INFO: Run Behavior\ParseTemplate [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:29:19+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010001s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.010001s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:35:44+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.010000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:35:59+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.010001s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.010000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:40:04+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.005001s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:40:30+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.003000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.001000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:41:04+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.003000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:41:45+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.003000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:42:32+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.004000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:44:27+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.003000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:45:16+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.003000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.004000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-05-10T18:46:10+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.003001s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.004000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-05-10T18:46:17+08:00 ] 127.0.0.1 /index.php?c=driver&a=recive&id=35
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `t_order` [ RunTime:0.004000s ]
+SQL: SELECT * FROM `t_order` WHERE ( `id` = 35 ) LIMIT 1   [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `t_car` [ RunTime:0.004001s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 42 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1576 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1584 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1587 行.
+NOTIC: [8] Undefined variable: where D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Model.class.php 第 1595 行.
+SQL: SELECT * FROM `t_car`  [ RunTime:0.000000s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in D:\phpStudy\WWW\db_car_system-master\tp\Application\Home\Controller\DriverController.class.php on line 46 and defined D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content D:\phpStudy\WWW\db_car_system-master\tp\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

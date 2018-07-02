@@ -1,0 +1,37 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>增加角色</title>
+</head>
+<body>
+<div  align="center">
+    角色名：<input id="name" placeholder="输入角色名">
+    <p>选择权限</p>
+</div >
+<div align="center">
+    <input type="checkbox"  value="1" id="user" /> 用户管理
+    <input type="checkbox"  value="1" id="password" /> 修改密码
+    <input type="checkbox"  value="1" id="operate"/> 日志管理
+</div>
+<div align="center">
+    <input type="checkbox"  value="1" id="admin"/> 管理员管理
+    <input type="checkbox"  value="1" id="oil"/> 油品管理
+    <input type="checkbox"  value="1" id="list"/> 车辆管理
+</div>
+<div align="center">
+    <input type="checkbox"  value="1" id="power"/> 权限管理
+    <input type="checkbox"  value="1" id="announce"/> 公告管理
+</div>
+<div align="center">
+    <button id="submit">确定</button>
+</div>
+
+</body>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/power/add.js"></script>
+<script src="__PUBLIC__/layui-v2.2.5/layui/layui.js" charset="utf-8"></script>
+</html>

@@ -1,0 +1,24 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+
+    <form >
+        <div>油品名称：<input type="text" name="name" value="{$attr.name}"/></div>
+        <input value="{$attr.id}" name="id" hidden>
+
+    </form>
+    <button class="change">修改</button>
+    <a href="{:U('Home/oil/index')}">返回</a>
+</div>
+</body>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/oil/updateOil.js"></script>
+</html>

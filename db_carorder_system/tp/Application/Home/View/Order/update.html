@@ -1,0 +1,36 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+    <form action="./index.php?c=order&a=update&id={$attr.id}" method="post">
+        <div>
+            <span style="display:inline-block;width:100px;text-align:right;">id：</span><input type="text" name="id" value="{$attr.id}" disabled/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">订单编号：</span><input type="text" name="number" value="{$attr.number}" disabled/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">订单号：</span><input type="text" name="order_number" value="{$attr.order_number}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">创建时间：</span><input type="text" name="create_time" value="{$attr.create_time}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">出发时间：</span><input type="text" name="departure_time" value="{$attr.departure_time}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">出车车牌号：</span><input type="text" name="car_plate_number" value="{$attr.car_plate_number}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">目的地：</span><input type="text" name="destination" value="{$attr.destination}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">订单状态：</span><input type="text" name="order_status" value="{$attr.order_status}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">司机编号：</span><input type="text" name="user_number" value="{$attr.user_number}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">提货单号：</span><input type="text" name="pick_number" value="{$attr.pick_number}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">合同号：</span><input type="text" name="contract_number" value="{$attr.contract_number}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">缺货信息：</span><input type="text" name="short_supply_info" value="{$attr.short_supply_info}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">提货数量：</span><input type="text" name="delivery_quantity" value="{$attr.delivery_quantity}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">提货时间：</span><input type="text" name="delivery_time" value="{$attr.delivery_time}"/></div>
+        <div><span style="display:inline-block;width:100px;text-align:right;">结算单位：</span><input type="text" name="settle_company" value="{$attr.settle_company}"/></div>
+        <input type="submit" value="修改"/>
+    </form>
+</div>
+<div align="center">
+    <button class="back" >取消</button>
+</div>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/order.js"></script>
+</body>
+</html>

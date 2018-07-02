@@ -1,0 +1,27 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>修改</title>
+</head>
+<body>
+<div align="center">
+
+    <span style="display:inline-block;width:160px;text-align:right; ">原先的排位是:</span>
+    <input class="rank" value="{$rank}" disabled>
+    <br/>
+    <span style="display:inline-block;width:160px;text-align:right;">输入修改后的排位:</span>
+    <input class="updateRank">
+
+</div>
+<div align="center">
+    <button id="confirm">确定</button>
+    <button id="back">取消</button>
+</div>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/list/update.js"></script>
+</body>
+</html>

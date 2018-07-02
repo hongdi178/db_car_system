@@ -1,0 +1,28 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+        <div><input  name="id" value="{$attr.id}"  type="hidden"/></div>
+        <div><input type="hidden" name="head_img" value="{$attr.head_img}" disabled/></div>
+        <div><input type="hidden" name="nickname" value="{$attr.nickname}" disabled/></div>
+        <div>真实姓名：<input type="text" name="name" value="{$attr.name}"/></div>
+        <div>手机号码：<input type="text" name="phone" value="{$attr.phone}"/></div>
+        <div>车辆车牌：<input type="text" name="plate_number" value="{$attr.plate_number}"/></div>
+        <div>隶属公司：<input type="text" name="company" value="{$attr.company}"/></div>
+        <button id="change">修改</button>
+
+</div>
+<div align="center">
+    <button id="button">返回</button>
+</div>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/user.js"> </script>
+</body>
+</html>

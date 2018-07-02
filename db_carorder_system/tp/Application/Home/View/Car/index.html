@@ -1,0 +1,38 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户信息管理</title>
+    <link  media="all">
+</head>
+<body>
+<h2 align="center">汽车信息</h2>
+<table border="1" align="center">
+    <tr>
+        <th>车辆id</th>
+        <th>车辆编号</th>
+        <th>车牌号</th>
+        <th>车架号</th>
+        <th>操作</th>
+    </tr>
+    <volist name="list" id="vo">
+        <tr>
+            <td>{$vo.id}</td>
+            <td>{$vo.number}</td>
+            <td>{$vo.plate_number}</td>
+            <td>{$vo.frame_number}</td>
+            <td>
+                <a href="/index.php?c=car&a=delete&id={$vo.id}" style="background-color:#F00" id="delete">删除</a>
+                <a href="/index.php?c=car&a=update&id={$vo.id}">修改</a>
+            </td>
+        </tr>
+    </volist>
+</table>
+<div align="center">
+
+    <a href="/index.php?c=car&a=add">增加汽车</a>
+</div>
+<script src="__PUBLIC__/js/car.js"></script>
+</body>
+</html>

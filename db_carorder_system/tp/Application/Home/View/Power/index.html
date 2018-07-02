@@ -1,0 +1,50 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>权限管理</title>
+</head>
+<body>
+<table border="1" align="center">
+    <tr>
+        <th>id</th>
+        <th>角色名</th>
+        <th>权限</th>
+        <th>操作</th>
+        
+    </tr>
+    <volist name="list" id="vo">
+        <tr>
+            <td>{$vo.id}</td>
+            <td>{$vo.name}</td>
+            <td>{$vo.action}</td>
+            <td>
+                <button style="background-color: red" class="delete">删除</button>
+                <BUTTON class="update">修改</BUTTON>
+            </td>
+    
+        </tr>
+    </volist>
+
+</table>
+
+<div align="center">
+	<button id="submit">增加角色</button>
+</div>
+</body>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/power/index.js"></script>
+<script src="__PUBLIC__/layui-v2.2.5/layui/layui.js" charset="utf-8"></script>
+
+</html>
+
+
+
+
+
+
+
+

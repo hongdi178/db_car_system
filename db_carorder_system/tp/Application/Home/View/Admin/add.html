@@ -1,0 +1,43 @@
+<include file="Admin/index" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div align="center">
+    <h2>增加管理员</h2>
+</div>
+<div align="center">
+    <form >
+        <div align="center">
+            <span style="display:inline-block;width:150px;text-align:right;">用户名：</span>
+            <input type="text" name="username" />
+            <BR>
+            <span style="display:inline-block;width:150px;text-align:right;">密码：</span>
+            <input type="password" name="password" />
+            <BR>
+            <span style="display:inline-block;width:150px;text-align:right;">再输入一次密码：</span>
+            <input type="password" name="secondPassword" />
+            <BR>
+        </div>
+
+        <select id="roleid">
+            <option>选择角色</option>
+            <volist name="list" id="vo">
+                <option value="{$vo['id']}" >{$vo.name} </option>
+            </volist>
+        </select>
+    </form>
+    <button id="submit">增加</button>
+    <a href="{:U('Home/admin/manage')}">返回</a>
+</div>
+</body>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/layui-v2.2.5/layui/layui.js" charset="utf-8"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/admin/add.js"></script>
+
+</html>

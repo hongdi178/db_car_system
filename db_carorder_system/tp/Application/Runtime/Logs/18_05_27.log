@@ -1,0 +1,1458 @@
+[ 2018-05-27T18:19:22+08:00 ] 140.207.54.76 /hongdi/db_carorder_system/tp/html/index?signature=b853b598a73849186a09f47ab1c9c1a67af0a33c&echostr=12847289856441374717&timestamp=1527416376&nonce=4084650824
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2018-05-27T18:24:48+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index?signature=e0353b212b9bc290e461b8c22bcb69ac4560e59e&echostr=8983292355910803454&timestamp=1527416702&nonce=997227849
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000492s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000590s ]
+
+[ 2018-05-27T18:24:58+08:00 ] 140.207.54.76 /hongdi/db_carorder_system/tp/html/index?signature=7723ee385da0decaf232fae5f75b2f75b927e1c6&echostr=6926674634291709945&timestamp=1527416712&nonce=686243856
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2018-05-27T18:24:59+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index?signature=35b0f792df5fba2bec7ac857f18fb02dc6495a45&echostr=4965113738272876425&timestamp=1527416713&nonce=2199790707
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2018-05-27T18:25:59+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2018-05-27T18:30:08+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index?signature=992c44f351663400cf07bfa392ef0ce82e292aad&echostr=12543192034527084031&timestamp=1527417022&nonce=2596127843
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2018-05-27T18:30:09+08:00 ] 140.207.54.76 /hongdi/db_carorder_system/tp/html/index?signature=0b71fea5c93d6477c4263e098c6ebfdda0c794dc&echostr=3811946713474575871&timestamp=1527417023&nonce=2486931137
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2018-05-27T18:30:28+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index/index?signature=79fb30c7717474f85f7a9a276b34a27a070a5bd6&echostr=7805565800796842711&timestamp=1527417042&nonce=2341118708
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2018-05-27T18:30:29+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index/index?signature=b580da286557f8962814d15e702439bd0f4cc5ea&echostr=4586007927232313851&timestamp=1527417043&nonce=1510237009
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2018-05-27T18:35:53+08:00 ] 140.207.54.76 /hongdi/db_carorder_system/tp/html/index/index?signature=d2df70ee30337e4a1197018bbc84aafc7196d553&echostr=14004060808772569815&timestamp=1527417367&nonce=4245956742
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2018-05-27T18:35:55+08:00 ] 140.207.54.76 /hongdi/db_carorder_system/tp/html/index/index?signature=03db3b6e73cfd24f5a657208ce1004800a17ab0e&echostr=543531091943743067&timestamp=1527417369&nonce=570336666
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2018-05-27T18:35:57+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index/index?signature=98094c3d542b6e74365fcdfd8188e3d724c5854c&echostr=16947730852496453307&timestamp=1527417371&nonce=716248418
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2018-05-27T18:37:49+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index/index?signature=983e24fac4d3c61c360823855a9b84e4b2af931f&echostr=1469327353684089839&timestamp=1527417483&nonce=3685433108
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2018-05-27T18:38:03+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index?signature=7c2cc4a4ce9697a5a4d6cb4f421a1613da0829d0&echostr=12079487256753065727&timestamp=1527417497&nonce=1490210714
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2018-05-27T18:38:04+08:00 ] 140.207.54.76 /hongdi/db_carorder_system/tp/html/index?signature=f170e444145f6bf6906ad303223731309cf2bcbc&echostr=14817747697873624062&timestamp=1527417498&nonce=983848987
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2018-05-27T18:43:05+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index/index?signature=a476f9296022234ba4b9ed41d4c472e483ca25f8&echostr=5166801873652391927&timestamp=1527417799&nonce=1012399357
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2018-05-27T18:44:15+08:00 ] 140.207.54.76 /hongdi/db_carorder_system/tp/html/index/index?signature=b774214e2b9d274cad5e6f620c89683da83e9d70&echostr=4754438095481249695&timestamp=1527417869&nonce=3538848792
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2018-05-27T18:44:58+08:00 ] 140.207.54.75 /hongdi/db_carorder_system/tp/html/index?signature=b44b83e9764aabcae37093303dd02e5cc55243db&echostr=11600902978639162424&timestamp=1527417912&nonce=3127463427
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2018-05-27T18:46:40+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+NOTIC: [8] Undefined index: signature /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: timestamp /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: nonce /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 45 行.
+NOTIC: [8] Undefined index: echostr /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2018-05-27T18:47:11+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+NOTIC: [8] Undefined index: signature /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: timestamp /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: nonce /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 45 行.
+NOTIC: [8] Undefined index: echostr /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 51 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000472s ]
+
+[ 2018-05-27T18:47:31+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000417s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2018-05-27T18:50:58+08:00 ] 140.207.54.79 /hongdi/db_carorder_system/tp/html/index?signature=4c3c2cb85ebcf95d51c3d530cd68781d91ae658a&timestamp=1527418272&nonce=2062698742&openid=o5UzE0wSTH8eTapMxyh7PxPjs08Y
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2018-05-27T19:07:32+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000810s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2018-05-27T19:08:06+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2018-05-27T19:08:15+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2018-05-27T19:08:27+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2018-05-27T19:08:36+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2018-05-27T19:11:28+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000562s ]
+
+[ 2018-05-27T19:12:55+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2018-05-27T19:15:50+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2018-05-27T19:18:15+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000719s ]
+
+[ 2018-05-27T19:40:30+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'student2'@'101.200.125.126' (using password: YES) /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'student2'@'101.200.125.126' (using password: YES)
+
+[ 2018-05-27T19:40:30+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+NOTIC: [2] mysql_connect(): Access denied for user 'student2'@'101.200.125.126' (using password: YES) /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+ERR: Access denied for user 'student2'@'101.200.125.126' (using password: YES)
+
+[ 2018-05-27T19:42:02+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000605s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.009294s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2018-05-27T19:42:03+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000771s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000645s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.009928s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2018-05-27T19:44:06+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000656s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.012833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2018-05-27T19:44:07+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000729s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.009558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2018-05-27T19:45:34+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000646s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.013371s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2018-05-27T19:45:35+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000647s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.009758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2018-05-27T19:46:05+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000643s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.009443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2018-05-27T19:46:05+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000619s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.008582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2018-05-27T19:57:58+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000615s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.010389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000687s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000745s ]
+
+[ 2018-05-27T19:57:59+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000672s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.009912s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000605s ]
+
+[ 2018-05-27T19:58:10+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000646s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.007316s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2018-05-27T19:58:11+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000663s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.010338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000827s ]
+
+[ 2018-05-27T20:07:27+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000675s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.007556s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000697s ]
+
+[ 2018-05-27T20:07:27+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000713s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.014648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000755s ]
+
+[ 2018-05-27T20:08:21+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000668s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.011059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2018-05-27T20:08:21+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000625s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.012503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2018-05-27T20:09:00+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000438s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.025626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2018-05-27T20:09:00+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000691s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.012610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000524s ]
+
+[ 2018-05-27T20:12:15+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 40 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000611s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.008467s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2018-05-27T20:12:16+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081512r30bG8YB1j39s30FX1r30512rw&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 38 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 39 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 40 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000607s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES (null,null) [ RunTime:0.011058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2018-05-27T20:12:58+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2018-05-27T20:13:01+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=0814mk210RJukG1EXS110NLc2104mk2W&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000662s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES ('o5UzE0wSTH8eTapMxyh7PxPjs08Y','红底') [ RunTime:0.015534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2018-05-27T20:22:10+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2018-05-27T20:22:13+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=061vGubZ0T5NV12sSXdZ021dbZ0vGubQ&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000675s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES ('o5UzE0wSTH8eTapMxyh7PxPjs08Y','红底') [ RunTime:0.012291s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000741s ]
+
+[ 2018-05-27T20:26:04+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2018-05-27T20:26:08+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=071DdvEi1KlKNv0CkMCi1aYwEi1DdvEz&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000633s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`) VALUES ('o5UzE0wSTH8eTapMxyh7PxPjs08Y','红底') [ RunTime:0.008684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2018-05-27T20:27:05+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2018-05-27T20:27:09+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=001t9EH52VweNK08tUH52uHGH52t9EHc&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000663s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES ('o5UzE0wSTH8eTapMxyh7PxPjs08Y','红底','http://thirdwx.qlogo.cn/mmopen/vi_32/uXTGPAvrvhCYbKOYpJiahaEC0LOdKILRn8iaRkdqAkmSG15VyIRNiaVZoWliamvX2urGEfZwvwHVrVTBnzp4XMIUgA/132') [ RunTime:0.009602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000823s ]
+
+[ 2018-05-27T21:08:08+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2018-05-27T21:08:11+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=0818H4c40MPkKC1VQXf40C5Pb408H4cM&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000667s ]
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES ('o5UzE0wSTH8eTapMxyh7PxPjs08Y','红底','http://thirdwx.qlogo.cn/mmopen/vi_32/uXTGPAvrvhCYbKOYpJiahaEC0LOdKILRn8iaRkdqAkmSG15VyIRNiaVZoWliamvX2urGEfZwvwHVrVTBnzp4XMIUgA/132') [ RunTime:0.011841s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2018-05-27T21:09:21+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2018-05-27T21:09:24+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=021SaGqe2pPkBD0lkzne27Ixqe2SaGqt&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000670s ]
+ERR: Think\Model:whetherExit方法不存在！
+
+[ 2018-05-27T21:12:30+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2018-05-27T21:12:33+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=071tyaYA0onffg2xz4YA08BeYA0tyaYu&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000614s ]
+ERR: Think\Model:whetherExit方法不存在！
+
+[ 2018-05-27T21:13:05+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2018-05-27T21:13:08+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=0610O20a2cD6aP0QhUZ92gtc0a20O20J&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000602s ]
+SQL: SELECT * FROM `t_user` WHERE ( openid like 'o5UzE0wSTH8eTapMxyh7PxPjs08Y'  )  [ RunTime:0.000327s ]
+
+[ 2018-05-27T21:13:08+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000522s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000286s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+ERR: 模板不存在:./Application/Html/View/Order/index.html
+
+[ 2018-05-27T21:13:49+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000592s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000114s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006986s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2018-05-27T21:13:49+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000566s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000118s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007394s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2018-05-27T21:14:51+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/my/page.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006107s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2018-05-27T21:15:31+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2018-05-27T21:15:35+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+ERR: 非法操作:order
+
+[ 2018-05-27T21:15:38+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/my/page.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2018-05-27T21:15:51+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/my/page.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.005736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005787s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2018-05-27T21:15:54+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/my/page.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006324s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2018-05-27T21:16:01+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=0610O20a2cD6aP0QhUZ92gtc0a20O20J&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000646s ]
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 40 行.
+SQL: SELECT * FROM `t_user` WHERE ( openid like ''  )  [ RunTime:0.000288s ]
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 42 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 44 行.
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.008077s ]
+
+[ 2018-05-27T21:16:01+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000564s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000143s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006918s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000138s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2018-05-27T21:17:20+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2018-05-27T21:17:24+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=071yO6di0jSQ9n1nOnei0W5ndi0yO6dW&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000660s ]
+SQL: SELECT * FROM `t_user` WHERE ( openid like 'o5UzE0wSTH8eTapMxyh7PxPjs08Y'  )  [ RunTime:0.000319s ]
+
+[ 2018-05-27T21:17:24+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000595s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000172s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000140s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000571s ]
+
+[ 2018-05-27T21:17:26+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2018-05-27T21:17:29+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=0717xyaD157jl20evX8D1n1HaD17xya1&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000615s ]
+SQL: SELECT * FROM `t_user` WHERE ( openid like 'o5UzE0wSTH8eTapMxyh7PxPjs08Y'  )  [ RunTime:0.000117s ]
+
+[ 2018-05-27T21:17:29+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000599s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000141s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007255s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2018-05-27T21:17:31+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/order.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+ERR: 非法操作:order
+
+[ 2018-05-27T21:18:28+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/index/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2018-05-27T21:18:31+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=021mCc2P0Elmdc2LzA5P0bAZ1P0mCc2q&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000605s ]
+SQL: SELECT * FROM `t_user` WHERE ( openid like 'o5UzE0wSTH8eTapMxyh7PxPjs08Y'  )  [ RunTime:0.000117s ]
+
+[ 2018-05-27T21:18:31+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000653s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000114s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007327s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2018-05-27T21:18:34+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=021mCc2P0Elmdc2LzA5P0bAZ1P0mCc2q&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+NOTIC: [8] Undefined index: access_token /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000679s ]
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 40 行.
+SQL: SELECT * FROM `t_user` WHERE ( openid like ''  )  [ RunTime:0.000309s ]
+NOTIC: [8] Undefined index: openid /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 42 行.
+NOTIC: [8] Undefined index: nickname /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 43 行.
+NOTIC: [8] Undefined index: headimgurl /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/IndexController.class.php 第 44 行.
+SQL: INSERT INTO `t_user` (`openid`,`nickname`,`head_img`) VALUES (null,null,null) [ RunTime:0.008015s ]
+
+[ 2018-05-27T21:18:35+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000588s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000144s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006833s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2018-05-27T21:21:46+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000666s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000115s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2018-05-27T21:21:47+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000602s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000116s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2018-05-27T21:25:15+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000579s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000143s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007041s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2018-05-27T21:25:15+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000591s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000114s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007308s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007360s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2018-05-27T21:26:39+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000574s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000115s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006995s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2018-05-27T21:26:39+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000577s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000112s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006991s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007073s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2018-05-27T21:26:54+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000598s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000160s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007355s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007409s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+
+[ 2018-05-27T21:26:54+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000583s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000113s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000103s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007292s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2018-05-27T21:29:20+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2018-05-27T21:29:24+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=061fYWIB1oJSBe00WFIB1mxaJB1fYWID&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000613s ]
+SQL: SELECT * FROM `t_user` WHERE ( openid like 'o5UzE0wSTH8eTapMxyh7PxPjs08Y'  )  [ RunTime:0.000304s ]
+
+[ 2018-05-27T21:29:24+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000544s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000114s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000466s ]
+
+[ 2018-05-27T21:32:21+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2018-05-27T21:32:24+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=011nU2df1ED4fz0NMKgf1NV0df1nU2dO&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000740s ]
+SQL: SELECT * FROM `t_user` WHERE ( openid like 'o5UzE0wSTH8eTapMxyh7PxPjs08Y'  )  [ RunTime:0.000118s ]
+
+[ 2018-05-27T21:32:24+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000571s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000113s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007145s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2018-05-27T21:56:18+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2018-05-27T21:56:21+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081ZARYm0PWnWr17jIWm0zyyYm0ZARY0&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000823s ]
+SQL: SELECT * FROM `t_user` WHERE ( openid like 'o5UzE0wSTH8eTapMxyh7PxPjs08Y'  )  [ RunTime:0.000149s ]
+
+[ 2018-05-27T21:56:21+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000598s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000117s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006975s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000460s ]
+
+[ 2018-05-27T21:57:44+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000550s ]
+
+[ 2018-05-27T21:57:48+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/html/Index/getUserInfo?code=081i8zs109hguE14jiu10ttus10i8zsj&state=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_user` [ RunTime:0.000735s ]
+SQL: SELECT * FROM `t_user` WHERE ( openid like 'o5UzE0wSTH8eTapMxyh7PxPjs08Y'  )  [ RunTime:0.000183s ]
+
+[ 2018-05-27T21:57:48+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000492s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000163s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2018-05-27T22:00:26+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000697s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000610s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000115s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.007343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2018-05-27T22:00:26+08:00 ] 113.81.3.110 /hongdi/db_carorder_system/tp/index.php/Html/order/index.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `t_oil` [ RunTime:0.000482s ]
+SQL: SELECT * FROM `t_oil` WHERE ( father_id="0" )  [ RunTime:0.000112s ]
+NOTIC: [8] Array to string conversion /www/web/yijiangbangtest_wsandos_com/public_html/hongdi/db_carorder_system/tp/Application/Html/Controller/OrderController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplace [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplate [ RunTime:0.006834s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCache [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2018-05-27T23:11:21+08:00 ] 106.14.168.238 /hongdi/db_carorder_system/tp/html/index
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCache [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTrace [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+

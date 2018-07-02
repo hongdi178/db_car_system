@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>查看订单</title>
+    <link rel="stylesheet" href="/Public/layui-v2.2.5/layui/css/layui.css"  media="all">
+</head>
+<body>
+<h2 align="center">订单信息</h2>
+<div align="center">
+    订单状态：
+    <select class="select">
+        <eq name="status" value="0">
+            <option value="0" selected="selected">未接单</option>
+            <else/>
+            <option value="0">未接单</option>
+        </eq>
+        <eq name="status" value="1">
+            <option value="1" selected="selected">已接单</option>
+            <else/>
+            <option value="1">已接单</option>
+        </eq>
+        <eq name="status" value="2">
+            <option value="2" selected="selected">已结束</option>
+            <else/>
+            <option value="2">已结束</option>
+        </eq>
+    </select>
+    <div>
+        <label >出发时间选择</label>
+        <input id="test" size="40px">
+    </div>
+    <a type="button" id="button">生成excel</a>
+</div>
+<table border="1" align="center">
+    <tr>
+        <th>id</th>
+        <th>订单编号</th>
+        <th>订单号</th>
+        <th>创建时间</th>
+        <th>出发时间</th>
+        <th>出车车牌号</th>
+        <th>目的地</th>
+        <th>订单状态</th>
+        <th>接单司机编号</th>
+        <th>提货单号</th>
+        <th>合同号</th>
+        <th>缺货信息</th>
+        <th>提货数量</th>
+        <th>提货时间</th>
+        <th>结算单位</th>
+        <th>商品名称</th>
+        <th>操作</th>
+    </tr>
+    <volist name="list" id="vo">
+        <tr>
+            <td>{$vo.id}</td>
+            <td>{$vo.number}</td>
+            <td>{$vo.order_number}</td>
+            <td>{$vo.create_time}</td>
+            <td>{$vo.departure_time}</td>
+            <td>{$vo.car_plate_number}</td>
+            <td>{$vo.destination}</td>
+            <eq name="vo.order_status" value="0"><td>未接单</td></eq>
+            <eq name="vo.order_status" value=""><td>未定义</td></eq>
+            <eq name="vo.order_status" value="1"><td>已接单</td></eq>
+            <eq name="vo.order_status" value="2"><td>已结束</td></eq>
+            <td>{$vo.user_number}</td>
+            <td>{$vo.pick_number}</td>
+            <td>{$vo.contract_number}</td>
+            <td>{$vo.short_supply_info}</td>
+            <td>{$vo.delivery_quantity}</td>
+            <td>{$vo.delivery_time}</td>
+            <td>{$vo.settle_company}</td>
+            <td>{$vo.goods_name}</td>
+            <td>
+                <a href="/index.php?c=order&a=delete&id={$vo.id}">删除</a>
+                <a href="/index.php?c=order&a=update&id={$vo.id}">修改</a>
+            </td>
+        </tr>
+    </volist>
+</table>
+<div align="center">
+    <a href="/index.php?c=admin&a=index" >退出</a>
+</div>
+<script src="__PUBLIC__/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="__PUBLIC__/js/dialog.js"></script>
+<script src="__PUBLIC__/dialog/layer.js"></script>
+<script src="__PUBLIC__/js/order.js"></script>
+<script src="__PUBLIC__/layui-v2.2.5/layui/layui.js" charset="utf-8"></script>
+<script>
+    layui.use('laydate', function(){
+        var laydate = layui.laydate;
+
+        laydate.render({
+            elem: '#test'
+            ,type: 'datetime'
+            ,range: true //或 range: '~' 来自定义分割字符
+        });
+    });
+</script>
+</body>
+</html>

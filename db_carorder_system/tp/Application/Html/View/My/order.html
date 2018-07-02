@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <title>预约记录</title>
+    <script type="text/javascript" src="__PUBLIC__/html/js/flexible.js"></script>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/html/css/yuyuejilu.css">
+
+
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/html/css/jquery-weui.min.css">
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/html/css/weui.min.css">
+
+</head>
+<body>
+<volist name="list" id="vo">
+    <div id="main">
+        <!--    <div class="line">
+                <div class="lineTop">
+                    <span class="time">2018-05-11</span>
+                    <span class="statu ing">正在装</span>
+
+                </div>
+                <div class="lineCon">
+                    <span class="lineCon-left">油品类型</span>
+                    <span class="lineCon-right">油品类</span>
+                </div>
+                <div class="lineCon">
+                    <span class="lineCon-left">车牌号码</span>
+                    <span class="lineCon-right">粤AE86</span>
+                </div>
+                <div class="lineCon">
+                    <span class="lineCon-left">公司名称</span>
+                    <span class="lineCon-right">测试公司</span>
+                </div>
+                <div class="lineCon">
+                    <span class="lineCon-left">真实姓名</span>
+                    <span class="lineCon-right">测试者</span>
+                </div>
+                <div class="lineCon">
+                    <span class="lineCon-left">联系电话</span>
+                    <span class="lineCon-right">181026601231</span>
+                </div>
+            </div>-->
+        <div class="line">
+            <div class="lineCon">
+                 <equal name="vo.rank" value="0">
+                    <span class="num numIng" >{$vo.rank}</span>
+                    <span class="chepai">{$vo.plate_number}</span>
+                    <span class="statu ing" >已完成</span>
+                </equal>
+                <equal name="vo.rank" value="1">
+                    <span class="num numIng" >{$vo.rank}</span>
+                    <span class="chepai">{$vo.plate_number}</span>
+                    <span class="statu ing" >正在装</span>
+                </equal>
+                <equal name="vo.rank" value="2">
+                    <span class="num numCq" >{$vo.rank}</span>
+                    <span class="chepai">{$vo.plate_number}</span>
+                    <span class="statu cq" >厂区待装</span>
+                </equal>
+                <egt name="vo.rank" value="3">
+                    <span class="num" >{$vo.rank}</span>
+                    <span class="chepai">{$vo.plate_number}</span>
+                    <span class="statu " >厂外待装</span>
+                </egt>
+            </div>
+            <div class="lineCon">
+                <span class="lineCon-left">排序</span>
+                <span class="lineCon-right">{$vo.rank}</span>
+            </div>
+            <div class="lineCon">
+                <span class="lineCon-left">油品类型</span>
+                <span class="lineCon-right">{$vo.oilName}</span>
+            </div>
+            <div class="lineCon">
+                <span class="lineCon-left">车牌号码</span>
+                <span class="lineCon-right">{$vo.plate_number}</span>
+            </div>
+            <div class="lineCon">
+                <span class="lineCon-left">公司名称</span>
+                <span class="lineCon-right">{$vo.company}</span>
+            </div>
+            <div class="lineCon">
+                <span class="lineCon-left">真实姓名</span>
+                <span class="lineCon-right">{$vo.name}</span>
+            </div>
+            <div class="lineCon">
+                <span class="lineCon-left">联系电话</span>
+                <span class="lineCon-right">{$vo.phone}</span>
+            </div>
+        </div>
+    </div>
+</volist>
+
+</body>
+<script type="text/javascript" src="__PUBLIC__/html/js/vue.min.js"></script>
+
+</html>
